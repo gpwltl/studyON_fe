@@ -260,7 +260,7 @@ const RoomCreateForm = (props) => {
             취소
           </Link>
         </Button>
-        {userStore.userPoint.point >=100 ? (
+        {true ? (
         <Button
           variant="outlined"
           type="submit"

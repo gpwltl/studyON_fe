@@ -24,6 +24,7 @@ class RoomListViewContainer extends Component {
     Store.roomList();
     Store.mySocket.on("remove room", (id) => {
       if (Store.getContinueRoom == false) {
+        console.log("heyyyyyyyyyyyyyyyyyyouuuuu"+Store.mySocket.id);
         this.props.Store.removeRoom(id);
       }
     });
