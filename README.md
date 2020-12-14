@@ -2,16 +2,6 @@
 
 [직접 참여하기 (studyON 접속)](https://gpwltl.github.io/)
 
-## 0. 해당 코드 
-[화면(frontEnd)](https://github.com/TeamTMTB/studyON_fe)
-
-[로그인server(oauth_service)](https://github.com/TeamTMTB/Oauth_Service)
-
-[투두리스트server(todolist-springboot)](https://github.com/TeamTMTB/StudyOn-todolist-springboot)
-
-[포인트server(pointlike-springboot)](https://github.com/TeamTMTB/StudyOn-pointlike-springboot)
-
-
 ## 1. 프로젝트 소개
 study mode on의 의미로서 공부를 시작할 때 함께하고픈 의미를 담았고, 시간과 공간의 제약이 없이 언제, 어디서나 사용이 가능하고 공부의 집중 습관을 기를 수 있게 하는 온라인 스터디 공간
 
@@ -44,4 +34,12 @@ study mode on의 의미로서 공부를 시작할 때 함께하고픈 의미를 
 ### 4) Point 기능
  포인트를 이용하여 해당 서비스를 이용하게 됩니다. 회원가입 시 1000포인트 지급되고 스터디 방을 만들거나 입장했을 때 차감되며 알람을 제때 끈 ‘오늘의 공부왕’ 타이틀을 가지게 되면 차감되었던 포인트를 환급받을 수 있습니다. 
 
+## 4. 해당 코드 
+[화면(frontEnd)](https://github.com/TeamTMTB/studyON_fe)
+
+[로그인server(oauth_service)](https://github.com/TeamTMTB/Oauth_Service)
+
+[투두리스트server(todolist-springboot)](https://github.com/TeamTMTB/StudyOn-todolist-springboot)
+
+[포인트server(pointlike-springboot)](https://github.com/TeamTMTB/StudyOn-pointlike-springboot)
 
