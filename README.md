@@ -39,6 +39,8 @@ study mode on의 의미로서 공부를 시작할 때 함께하고픈 의미를 
 
 [로그인server(oauth_service)](https://github.com/TeamTMTB/Oauth_Service)
 
+[실시간 서비스server](https://github.com/TeamTMTB/TMTB_be_realtime)
+
 [투두리스트server(todolist-springboot)](https://github.com/TeamTMTB/StudyOn-todolist-springboot)
 
 [포인트server(pointlike-springboot)](https://github.com/TeamTMTB/StudyOn-pointlike-springboot)
